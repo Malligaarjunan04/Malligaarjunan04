@@ -71,6 +71,3 @@ Passionate Web Developer
 
   </tr>
 </table>
-
-
-need table flex space evenly 
