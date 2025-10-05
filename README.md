@@ -5,6 +5,13 @@ Welcome to my GitHub profile! I’m a passionate developer exploring **full-stac
 
 ---
 
+
+
+# 🐍 Snake Animation
+
+![Snake Animation](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
+
 ## 🚀 About Me
 
 * 💻 Full-stack web developer
