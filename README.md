@@ -19,13 +19,13 @@ Passionate Web Developer
 <table  align="center">
   <tr>
     
-        🇺🇦 Tamil - Native
+       Tamil - Native
         
   </tr>
 
   <tr>
     
-        🇬🇧 English - Intermediate
+        English - Intermediate
         
   </tr>
 </table>
