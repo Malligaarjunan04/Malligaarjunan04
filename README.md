@@ -25,6 +25,12 @@ Passionate MERN Stack Developer
 
   <tr>
     
+      Kannada - Intermediate
+        
+  </tr>
+
+  <tr>
+    
       English - Intermediate
         
   </tr>
