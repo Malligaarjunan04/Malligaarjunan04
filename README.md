@@ -25,7 +25,7 @@ Passionate Web Developer
 
   <tr>
     
-        English - Intermediate
+      English - Intermediate
         
   </tr>
 </table>
