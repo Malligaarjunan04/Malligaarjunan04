@@ -33,83 +33,70 @@ Passionate Web Developer
 
 ### My stack and tools :
 
-<div style="display: flex; align-items: flex-start; align: center">
+
+
+
+### ⚡ Technical Skills
 <table align="center">
   <tr>
-     <td align="center"  width="88">
-         <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
-      <br>HTML5
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44"/><br>Java
     </td>
     <td align="center" width="88">
-        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
-      <br>CSS3
-    </td>
-<td align="center" width="88">
-         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
-      <br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44"/><br>HTML5
     </td>
     <td align="center" width="88">
-        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
-      <br>TypeScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44"/><br>CSS3
     </td>
     <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-      <br>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44"/><br>JavaScript
     </td>
     <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
-      <br>React.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44"/><br>TypeScript
     </td>
     <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
-      <br>Next.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44"/><br>Next.js
     </td>
     <td align="center" width="88">
-      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
-      <br>Node.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44"/><br>React.js
     </td>
-        <td align="center" width="88">
-       <img src="./images/09-dotnet.png" alt=".NET" width="44" height="44"/>
-      <br>.NET
-      </td>
+  
   </tr>
-    <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
-      <br>Sass
+  <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="44" height="44"/><br>Go
     </td>
-    <td align="center" width="88"> 
-        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
-      <br>BEM
-    </td>
-    <td align="center"  width="88">
-        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
-      <br>Redux
-    </td>
-    <td align="center" width="88">
-        <img src="./images/14-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
-     </td>
-      <td align="center" width="88">
-        <img src="./images/15-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
-    </td>
-      </td>
-      <td align="center" width="88">
-        <img src="./images/16-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
-     </td>
      <td align="center" width="88">
-        <img src="./images/17-docker.svg" alt="Docker" width="44" height="44"/>
-      <br>Docker
-     </td>
-     <td align="center" width="88">
-        <img src="./images/18-aws.svg" alt="AWS" width="44" height="44"/>
-      <br>AWS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44"/><br>Tailwind CSS
     </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44"/><br>Node.js
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44"/><br>Express.js
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44"/><br>MongoDB
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="44" height="44"/><br>Flutter
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="44" height="44"/><br>Dart
+    </td>
+  </tr>
 </table>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
