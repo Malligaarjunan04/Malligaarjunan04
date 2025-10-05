@@ -11,7 +11,7 @@ Hey there, I'm Arjun!
   
 ### About Me :
 
-Passionate Web Developer 
+Passionate MERN Stack Developer
 
 ### Languages :
 
