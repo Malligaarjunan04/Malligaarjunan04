@@ -37,7 +37,7 @@ Passionate Web Developer
 
 
 ### ⚡ Technical Skills
-<table align="center">
+<table align="center"  margin="10px">
   <tr>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44"/><br>Java
