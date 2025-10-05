@@ -36,7 +36,7 @@ Passionate Web Developer
   <a href="linkedin.com/in/malligaarjunan-n-460438269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/niranjancse2023/" target="_blank">
+  <a href="https://leetcode.com/u/niranjancse2023/](https://leetcode.com/u/Malligaarjunan" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode&style=for-the-badge" alt="LeetCode"/>
   </a>
 </p>
