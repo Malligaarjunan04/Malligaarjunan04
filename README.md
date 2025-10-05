@@ -37,7 +37,7 @@ Passionate Web Developer
 
 
 ### ⚡ Technical Skills
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+<div align="center" style="display: grid; align-item: center; flex-wrap: wrap; gap: 40px;">
 
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44"/><br>Java
